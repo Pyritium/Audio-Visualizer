@@ -1,5 +1,9 @@
 # Audio-Visualizer
+https://gyazo.com/8051be27dfaf4e25030f09bbb8a75c6a.gif
+
 This is one of my personal projects, an Audio Visualizer implemented in C++. This audio visualizer seamlessly merges auditory and visual elements, offering an immersive exhibition of music and various audio sources.
+
+
 
 ## Key features
 * Layering
