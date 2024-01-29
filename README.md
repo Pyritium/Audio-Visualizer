@@ -1,5 +1,8 @@
 # Audio-Visualizer
-https://gyazo.com/8051be27dfaf4e25030f09bbb8a75c6a.gif
+
+https://github.com/Pyritium/Audio-Visualizer/assets/68076312/b14de0c2-9fc9-45fd-a637-d3f7873697a0
+
+
 
 This is one of my personal projects, an Audio Visualizer implemented in C++. This audio visualizer seamlessly merges auditory and visual elements, offering an immersive exhibition of music and various audio sources.
 
