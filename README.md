@@ -21,4 +21,6 @@ This is one of my personal projects, an Audio Visualizer implemented in C++. Thi
 * Energy Ring (A really cool ring that constantly adapts shape based on the input, very sporadic though!)
 
 ## Lastly...
+### To navigate through the modes, simply right click the window!
+
 I appreciate any interest in this project at all, and I am always open to any feedback and suggestions if you have any! If you're learning like I am and need examples of code to look at, feel free to go ahead! Take anything away from it if you'd like, as it also serves to help others as well as myself. If you intend on changing up anything with it to create a custom copy, let me know in advance! I'd love to hear about it. Thanks so much!
