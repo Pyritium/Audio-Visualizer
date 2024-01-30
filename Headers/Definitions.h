@@ -82,11 +82,7 @@ public:
         for (unsigned int i = 0; i < FrameCount; i++)
         {
             float SampleValue = out[i];
-
-            // Compute absolute value (or any other metric based on your requirement)
             TotalVolume += std::abs(SampleValue);
-
-            // You can also update other parts of your audio processing here, if needed
         }
 
         // Calculate average volume for the frame
@@ -120,13 +116,7 @@ public:
         for (unsigned int i = 0; i < 8; i++)
         {
             float SampleValue = out[i];
-           
-           
             TotalVolume += std::abs(SampleValue);
-
-            // Compute absolute value (or any other metric based on your requirement)
-
-            // You can also update other parts of your audio processing here, if needed
         }
 
         float AverageVolume = TotalVolume / (FrameCount);
@@ -157,13 +147,7 @@ public:
         for (unsigned int i = 0; i < 8; i++)
         {
             float SampleValue = out[i];
-
-
             TotalVolume += std::abs(SampleValue);
-
-            // Compute absolute value (or any other metric based on your requirement)
-
-            // You can also update other parts of your audio processing here, if needed
         }
 
         float AverageVolume = TotalVolume / (FrameCount);
