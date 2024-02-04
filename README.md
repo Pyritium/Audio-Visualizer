@@ -3,7 +3,7 @@
 https://github.com/Pyritium/Audio-Visualizer/assets/68076312/f650fe8f-531a-464e-9e10-01a3cbc12406
 
 
-This is one of my personal projects, an Audio Visualizer implemented in C++. This audio visualizer seamlessly merges auditory and visual elements, offering an immersive exhibition of music and various audio sources.
+This is one of my personal projects, an Audio Visualizer implemented in C++. This audio visualizer seamlessly merges auditory and visual elements, offering an immersive exhibition of music and various audio sources, this was built with OpenGL and a couple of the libraries with it. Originally, it was going to be built with PA (PortAudio) but I soon after switched to windows library instead.
 
 
 
